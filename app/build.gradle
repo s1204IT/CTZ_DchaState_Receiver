@@ -9,10 +9,10 @@ android {
     defaultConfig {
         applicationId 'me.s1204.benesse.dcha.receiver'
         minSdk 28
-        //noinspection ExpiredTargetSdkVersion,EditedTargetSdkVersion
-        targetSdk 28
-        versionCode 1
-        versionName "1.0.0"
+        //noinspection ExpiredTargetSdkVersion
+        targetSdk 22
+        versionCode 2
+        versionName "1.0.1"
     }
 
     signingConfigs {
