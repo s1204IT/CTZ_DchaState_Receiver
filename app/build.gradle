@@ -39,4 +39,6 @@ android {
         }
     }
 }
-dependencies.compileOnly files('libs/BenesseExtension.jar')
+dependencies {
+    compileOnly files('libs/BenesseExtension.jar')
+}
